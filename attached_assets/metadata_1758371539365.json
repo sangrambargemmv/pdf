@@ -1,0 +1,5 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "An offline tool to convert multiple images into a single PDF document. Select your images, reorder them as needed, and then generate, download, or share your PDF file instantly.",
+  "requestFramePermissions": []
+}
